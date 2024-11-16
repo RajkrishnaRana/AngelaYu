@@ -1,0 +1,18 @@
+.box1{
+    align-items: center;
+    justify-content: center;
+}
+.box {
+    height: 560px;
+    width: 560px;
+}
+.w {
+    width: 70px;
+    height: 70px;
+    background-color: white;
+}
+.b {
+    width: 70px;
+    height: 70px;
+    background-color: black;
+}
